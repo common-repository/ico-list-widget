@@ -1,0 +1,18 @@
+{
+	"name": "elw",
+	"description": "List events",
+	"keywords": ["wordpress", "plugin", "generator-plugin-wp"],
+	"homepage": "https://wordpress.org",
+	"license": "GPLv2",
+	"authors": [
+	{
+		"name": "RomEngRus",
+		"homepage": "https://wordpress.org"
+	}
+	],
+	"minimum-stability": "dev",
+	"type": "wordpress-plugin",
+	"autoload": {
+		"classmap": ["ico-lw.php", "includes/"]
+	}
+}

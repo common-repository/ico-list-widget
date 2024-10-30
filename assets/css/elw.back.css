@@ -1,0 +1,14 @@
+/**
+ * Events Listing Widget
+ * https://wordpress.org
+ *
+ * Copyright (c) 2017 RomEngRus
+ * Licensed under the GPLv2+ license.
+ */
+.option-icolw_settings .shortcode input {
+  height: 42px;
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 10px; }
+
+/*# sourceMappingURL=elw.back.css.map */
